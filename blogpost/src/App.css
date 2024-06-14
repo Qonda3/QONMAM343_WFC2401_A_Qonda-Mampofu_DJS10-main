@@ -1,0 +1,14 @@
+.blog-post {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .blog-post h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post p {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }

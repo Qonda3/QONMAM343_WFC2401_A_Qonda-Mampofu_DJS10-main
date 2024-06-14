@@ -1,3 +1,4 @@
+import './App.css';
 import BlogPosts from "./BlogPosts";
 
 export default function App() {
